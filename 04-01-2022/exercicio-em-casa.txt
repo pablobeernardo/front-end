@@ -1,0 +1,35 @@
+<!DOCTYPE <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Receita de bolo de banana</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+
+    <img src='https://play-lh.googleusercontent.com/juJwnMW54610pYUsB2vHA2vW6Y-ymsjbFpzZKTbeM-X1T0R4cmT4GwGxy2Z91kK-KLuL?fbclid=IwAR3DV5UPIZuPbuiYSZDDAgF2LnUBVcHPvtlz_nBq1A1r_fpRYbqC7kAsj1c' width="250px">
+
+    <h1>Bolo de Banana com aveia</h1>
+    <h2>Ingredientes:</h2>
+        <ul>
+            <li>2 ovos</li>
+            <li>2 colheres (sopa) de óleo</li>
+            <li>2 bananas-nanica maduras, amassadas</li>
+            <li>2 colheres (sopa) de nozes tostadas e picadas</li>
+            <li>4 colheres (sopa) de Farelo de Aveia Orgânica Sem Glúten NESTLÉ®️</li>
+            <li>meia colher (sopa) de canela em pó</li>
+            <li>1 colher (sopa) de fermento em pó</li>
+        </ul>
+
+    <h2>Modo de Preparo:</h2>    
+        <ol>
+            <li>Em um recipiente, bata os ovos com o óleo.</li>
+            <li>Acrescente as bananas e misture até ficar homogêneo. Adicione o restante dos ingredientes, deixando o fermento por último.</li>
+            <li>Em uma forma de furo central (19 cm de diâmetro) untada com óleo e polvilhada com farelo de aveia e canela em pó, despeje a massa e asse em forno médio (180°C), preaquecido, por cerca de 25 minutos.</li>
+        </ol>
+    
+</body>
+</html>
