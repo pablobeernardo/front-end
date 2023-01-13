@@ -1,0 +1,25 @@
+.ajuste_imagem{
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+}
+
+body{
+    background-color: #deefed;
+}
+
+.cor_buttom{
+    background-color: #643e6a;
+    color: white;    
+
+}
+
+.estilo_nav{
+    background-color: #deefed;
+    color:  #643e6a;
+
+}
+
+.espaco_rodape{
+    margin-bottom: 5px;
+
+}
